@@ -1,4 +1,4 @@
-Join us for the SC20 Arm Scalable Vector Extension Hackathon!  This hands-on, non-NDA event will introduce vector length agnostic programming and jumpstart developers targeting the the first CPU to implement SVE, the Fujitsu A64FX.  Hands-on exercises will introduce SVE compilers, libraries, and tools from Fujitsu, Cray, Arm, and GNU, and show how popular HPC codes can take advantage of SVE.
+Join us for another Arm Scalable Vector Extension Hackathon!  This hands-on, non-NDA event will introduce vector length agnostic programming and jumpstart developers targeting the the first CPU to implement SVE, the Fujitsu A64FX.  Hands-on exercises will introduce SVE compilers, libraries, and tools from Fujitsu, Cray, Arm, and GNU, and show how popular HPC codes can take advantage of SVE.
 
 # Schedule
 
