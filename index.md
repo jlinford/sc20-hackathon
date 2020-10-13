@@ -1,33 +1,34 @@
-Arm's Scalable Vector Extension (SVE) has arrived, but what does SVE mean for typical high performance computing workloads and how do you use it? This hands-on, non-NDA event will present SVE and show how common HPC codes can be recompiled to take advantage of large vector lengths without code modifications.
+Join us for the SC20 Arm Scalable Vector Extension Hackathon!  This hands-on, non-NDA event will introduce vector length agnostic programming and jumpstart developers targeting the the first CPU to implement SVE, the Fujitsu A64FX.  Hands-on exercises will introduce SVE compilers, libraries, and tools from Fujitsu, Cray, Arm, and GNU, and show how popular HPC codes can take advantage of SVE.
 
 # Schedule
 
-## 9:00am – Introduction and Fundamentals
+## 7:00am PST / 10:00 EST / 3:00pm BST - Introduction and Fundamentals
 
-Short presentations from community members, SVE tool developers, application teams, and hardware developers to introduce core concepts and lay the roadmap for future SVE applications.
+Presentations from community members, SVE tool developers, application teams, and hardware developers.
+
+> :warning: **Schedule is in draft**.  
 
   Minutes | Materials | Presenter 
   :-----: | :-------: | :-------: 
-  5 | [Welcome and Overview of Arm in HPC](https://gitlab.com/arm-hpc/training/arm-sve-tools/raw/master/Slides/1%20-%20Overview%20of%20Arm%20in%20HPC.pptx?inline=false) | John Linford
-  25 | [Introduction to Programming for Arm SVE](https://gitlab.com/arm-hpc/training/arm-sve-tools/raw/master/Slides/2%20-%20Intro%20to%20Programming%20SVE.pptx?inline=false) | John Linford
-  25 | [Timing-agnostic SVE optimization with ArmIE](https://github.com/jlinford/sc19-hackathon/raw/master/slides/Asvie_Rusitoru.pdf) | Roxana Rusitoru
-  25 | [RIKEN Fugaku Processor Simulator](https://github.com/jlinford/sc19-hackathon/raw/master/slides/RekenSimulatorUpdates_Nov2019.pdf) | Yuetsu Kodama 
-  30 | [A Closer Look at Arm SVE](https://gitlab.com/arm-hpc/training/arm-sve-tools/raw/master/Slides/3%20-%20SVE%20Deep%20Dive.pptx?inline=false) | John Linford
-   5 | Training Cluster First-touch | Everyone!
+   5 | Welcome | TBD
+  25 | Introduction to SVE | TBD
+   5 | Fujitsu FX700 | TBD
+  25 | The Fujitsu Scientific Programming Environment | TBD
+   5 | Cray Apollo 80 | TBD
+  25 | The Cray Programming Environment | TBD 
 
-## 11:00am – Hands-on with SVE
 
-The entirely hands-on afternoon session will introduce the Arm's tools for SVE developers and show how to generate SVE-enabled binaries targeting popular vector lengths. The session will include contributions from people who are running and porting applications for SVE.
+## 9:30am PST / 12:30 EST / 5:30pm BST – Hands-on with SVE
 
- * Training Cluster: `ssh student@cluster.arm-hpc.org`
-   * Password: `Tr@ining!`
+Bring your own code, or use our prepared hands-on exercises!  The entirely hands-on session will jumpstart SVE developers and show how to generate SVE-enabled binaries targeting the Fujitsu A64FX. Students will be clustered in small groups with a dedicated trainer via Zoom breakout rooms.
+
+ * Training Cluster: TBD
 
  * Materials: [https://gitlab.com/arm-hpc/training/arm-sve-tools/](https://gitlab.com/arm-hpc/training/arm-sve-tools/)
 
 # Registration
 
- * [Register now](https://pages.arm.com/sve-hackathon-sc19) to guarantee your seat.
- * [https://pages.arm.com/sve-hackathon-sc19](https://pages.arm.com/sve-hackathon-sc19)
+ * Opening soon
 
 # Contact
 
