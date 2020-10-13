@@ -6,7 +6,7 @@ Join us for the SC20 Arm Scalable Vector Extension Hackathon!  This hands-on, no
 
 Presentations from community members, SVE tool developers, application teams, and hardware developers.
 
-> :warning: **Schedule is in draft**.  
+> **Schedule is in draft**.  
 
   Minutes | Materials | Presenter 
   :-----: | :-------: | :-------: 
