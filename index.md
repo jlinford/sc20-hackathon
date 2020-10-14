@@ -34,10 +34,6 @@ Bring your own code, or use our prepared hands-on exercises!  The entirely hands
 
  * Materials: [https://gitlab.com/arm-hpc/training/arm-sve-tools/](https://gitlab.com/arm-hpc/training/arm-sve-tools/)
 
-# Registration
-
- * Opening soon
-
 # Contact
 
  * John Linford <john.linford@arm.com>
