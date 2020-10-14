@@ -1,5 +1,7 @@
 Join us for another Arm Scalable Vector Extension Hackathon!  This hands-on, non-NDA event will introduce vector length agnostic programming and jumpstart developers targeting the the first CPU to implement SVE, the Fujitsu A64FX.  Hands-on exercises will introduce SVE compilers, libraries, and tools from Fujitsu, Cray, Arm, and GNU, and show how popular HPC codes can take advantage of SVE.
 
+Fujitsu are supporting this event with remote access to a [Fujitsu PRIMEHPC FX700](https://www.fujitsu.com/global/products/computing/servers/supercomputer/) system.  Don't miss out!
+
 # Registration
 
 Registration is free, but space is limited! Please register early to guarantee your seat at the hackathon. 
