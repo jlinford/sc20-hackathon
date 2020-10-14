@@ -2,7 +2,7 @@ Join us for another Arm Scalable Vector Extension Hackathon!  This hands-on, non
 
 # Registration
 
-[https://www.eventbrite.com/e/arm-sve-hackathon-registration-125147486501](Registration is free!)  Space is limited so please register early to guarantee your seat at the hackathon.
+[Space is limited so please register early to guarantee your seat at the hackathon. Registration is free!](https://www.eventbrite.com/e/arm-sve-hackathon-registration-125147486501)
 
  * [Click here to register](https://www.eventbrite.com/e/arm-sve-hackathon-registration-125147486501)
 
