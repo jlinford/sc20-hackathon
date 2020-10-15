@@ -4,7 +4,9 @@ Fujitsu are supporting this event with remote access to a [Fujitsu PRIMEHPC FX70
 
 # Registration
 
-Registration opens Thursday 15 October.
+Registration is free, but space is limited! Please register early to guarantee your seat at the hackathon. 
+
+<a href="https://www.eventbrite.com/e/arm-sve-hackathon-registration-125147486501"><button class="btn" style="color: white; background-color: #1c4274; padding: 1em 8em 1em 8em;">Register Now</button></a>
 
 # Schedule
 
