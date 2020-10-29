@@ -10,26 +10,29 @@ Registration is free, but space is limited! Please register early to guarantee y
 
 # Schedule
 
-## 7:00am PST / 10:00 EST / 3:00pm BST - Introduction and Fundamentals
-
-Presentations from community members, SVE tool developers, application teams, and hardware developers.
+The event starts at **7:00am PST / 10:00 EST / 3:00pm BST**.  Bring your own code or use our prepared hands-on exercises!  The hands-on session will jumpstart SVE developers and show how to generate SVE-enabled binaries targeting the Fujitsu A64FX.
 
 > **Schedule is in draft**.  
 
-  Minutes | Materials | Presenter 
-  :-----: | :-------: | :-------: 
-   5 | Welcome | TBD
-  25 | Introduction to SVE | TBD
-   5 | Fujitsu FX700 | TBD
-  25 | The Fujitsu Scientific Programming Environment | TBD
-   5 | Cray Apollo 80 | TBD
-  25 | The Cray Programming Environment | TBD 
-
-
-## 9:30am PST / 12:30 EST / 5:30pm BST – Hands-on with SVE
-
-Bring your own code, or use our prepared hands-on exercises!  The entirely hands-on session will jumpstart SVE developers and show how to generate SVE-enabled binaries targeting the Fujitsu A64FX. Students will be clustered in small groups with a dedicated trainer via Zoom breakout rooms.
-
+Minutes | Topic                                               | Materials 
+:-----: | :-------------------------------------------------: | :-------: 
+     10 | Welcome                                             | 
+     45 | The Arm HPC Ecosystem                               |
+      5 | Break                                               |
+     15 | Cluster Access and First-touch                      |
+     15 | Introduction to the Fujitsu A64FX                   | 06_A64FX
+     30 | Introduction to the Scalable Vector Extension (SVE) | 05_Apps
+      5 | Break                                               |
+     10 | Open Source SVE Compilers: GNU and LLVM             | 01_Compiler
+     15 | Arm Compiler for Linux and ArmPL                    | 01_Compiler
+     15 | Fujitsu Compiler and Fujitsu SSL II                 | 01_Compiler
+     15 | Cray Compiler and Cray LibSci                       | 01_Compiler
+      5 | Break                                               |
+     30 | SVE Intrinsics and Advanced Features                | 02_ACLE, 03_SVE
+     30 | Arm Instruction Emulator                            | 04_ArmIE
+      5 | Break                                               |
+     ?? | Hacking!                                            
+          
  * Remote System Access: Details will be provided on the day of the event.
 
  * Materials: [https://gitlab.com/arm-hpc/training/arm-sve-tools/](https://gitlab.com/arm-hpc/training/arm-sve-tools/)
