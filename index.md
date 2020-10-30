@@ -1,6 +1,6 @@
 Join us for another Arm Scalable Vector Extension Hackathon!  This hands-on, non-NDA event will introduce vector length agnostic programming and jumpstart developers targeting the the first CPU to implement SVE, the Fujitsu A64FX.  Hands-on exercises will introduce SVE compilers, libraries, and tools from Fujitsu, Cray, Arm, and GNU, and show how popular HPC codes can take advantage of SVE.
 
-Fujitsu are supporting this event with remote access to a [Fujitsu PRIMEHPC FX700](https://www.fujitsu.com/global/products/computing/servers/supercomputer/) system.  Don't miss out!  Remote access details will be provided on the day of the event to all registered attendees.
+This event is generously supported by Fujitsu and the University of Bristol.  Fujitsu will provide remote access to a [Fujitsu PRIMEHPC FX700](https://www.fujitsu.com/global/products/computing/servers/supercomputer/) system.  The University of Bristol will provide access to the [HPE Apollo 80](https://buy.hpe.com/us/en/servers/apollo-systems/apollo-80-system/apollo-80-system/hpe-apollo-80-system/p/1012970957) partition of [Isambard 2, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).  Don't miss out!  Remote access details will be provided on the day of the event to all registered attendees.
 
 # Registration
 
