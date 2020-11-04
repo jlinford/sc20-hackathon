@@ -4,7 +4,7 @@ This event is generously supported by Fujitsu and the University of Bristol.  Fu
 
 # Schedule
 
-The event starts at **7:00am PST / 10:00 EST / 3:00pm BST**.  
+The event starts at **7:00am PST / 10:00 EST / 3:00pm BST** with cluster login instructions and an introduction to the A64FX.  The first four hours of the event are a structured combination of talks and hands-on exercices.  Students may choose to attend any of the talks, or take an unstructured route and spend the time hacking on A64FX.  After the talks, the remainder of the day will be spent in unstructured hacking. 
 
 ![Schedule](/schedule.png)
           
