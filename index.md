@@ -4,9 +4,9 @@ This event is generously supported by Fujitsu and the University of Bristol.  Fu
 
 # Call-in details
 
-*Please make sure that you have updated to the latest version of Zoom (at least 5.4.0).*  See https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version for instructions.
+*Please make sure that you have updated to the latest version of Zoom (at least 5.4.0).*  [See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
 
-**Direct Link: https://armltd.zoom.us/j/92251693889?pwd=c2tpeDBpRnhRMitndjk3MS84dDRYQT09**
+Direct Link: [https://armltd.zoom.us/j/92251693889?pwd=c2tpeDBpRnhRMitndjk3MS84dDRYQT09](https://armltd.zoom.us/j/92251693889?pwd=c2tpeDBpRnhRMitndjk3MS84dDRYQT09)
  - Meeting ID: 922 5169 3889
  - Passcode: 994598
  
